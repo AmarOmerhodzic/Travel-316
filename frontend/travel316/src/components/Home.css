@@ -1,0 +1,13 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(100%); /* This makes the carousel arrows visible by changing their color to black */
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar .navbar-brand {
+    margin: auto; /* Center the text horizontally */
+}
+
